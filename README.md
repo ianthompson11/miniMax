@@ -21,8 +21,6 @@ Una vez seleccionamos esto ahora si nos dejara jugar
 
 LOGICA
 
-Puede que cuando me refiere a las lineas en especifico eso este ligeramente mal porque este texto era originalmente para el del algoritmo alpha beta
-
 1. Todo comienza con la creación de un objeto de la clase MinMax en Gato1 en la línea 27.
    
 2. Los JButton boton[] en las posiciones 0, 1, 2 (los cuales son los que indican Fácil, Normal, Difícil respectivamente) no solo cambian opciones de diseño, sino que proporcionan valores 1, 5, 9 respectivamente a nivdif, una variable que en otra sección del código se encargará de la profundidad de búsqueda en el árbol.
